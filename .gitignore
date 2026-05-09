@@ -1,0 +1,12 @@
+# Mengabaikan file hasil kompilasi (Executable & Object)
+*.exe
+*.o
+
+# Mengabaikan folder environment dan editor
+.vscode/
+codex/
+mingw/
+
+# Mengabaikan file sistem Windows
+Thumbs.db
+desktop.ini
